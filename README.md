@@ -1,1 +1,5 @@
-# linux-essentials-adder
+# Linux Essentials
+
+**GRABS SOME OF THE ESSENTIAL PROGRAMS FOR ME, MODIFY FORK TO MAKE YOUR OWN!**
+
+!! DEBIAN ONLY FOR NOW !!
